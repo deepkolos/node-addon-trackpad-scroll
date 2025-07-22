@@ -1,0 +1,30 @@
+{
+  "files.associations": {
+    ".jsbeautifyrc": "json",
+    ".lintstagedrc": "json",
+    ".huskyrc": "json",
+    "*.grd": "xml",
+    "*.gni": "bat",
+    "*.gn": "bat",
+    ".gn": "bat",
+    "*.configure": "python",
+    "*.ux": "vue",
+    "*.mix": "vue",
+    "*.vugu": "html",
+    "*.dae": "xml",
+    "*.glsl": "glsl",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript",
+    "*.wxml": "wxml",
+    "*.html": "html",
+    "*.json": "jsonc",
+    "Jenkinsfile-deploy": "groovy",
+    "*.res": "reason",
+    "*.gltf": "json",
+    "*.babylon": "json",
+    "*.make": "makefile",
+    "*.sgout": "json",
+    "string": "cpp"
+  }
+}

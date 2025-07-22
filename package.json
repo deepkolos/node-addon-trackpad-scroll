@@ -1,0 +1,38 @@
+{
+  "name": "node-addon-trackpad-scroll",
+  "version": "1.0.0",
+  "description": "node addon trackpad scroll(MacOS Only)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "node-gyp rebuild",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepkolos/node-addon-trackpad-scroll.git"
+  },
+  "keywords": [
+    "electron",
+    "electronjs",
+    "node",
+    "addon",
+    "trackpad",
+    "scroll",
+    "macos",
+    "mac"
+  ],
+  "author": "deepkolos<deepkolos@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepkolos/node-addon-trackpad-scroll/issues"
+  },
+  "homepage": "https://github.com/deepkolos/node-addon-trackpad-scroll#readme",
+  "dependencies": {
+    "node-addon-api": "^8.5.0"
+  },
+  "gypfile": true,
+  "publishConfig": {
+    "access": "public"
+  }
+}
