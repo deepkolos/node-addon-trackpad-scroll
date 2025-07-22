@@ -11,10 +11,10 @@ npm install
 ## 使用
 
 ```javascript
-const addon = require('./build/Release/addon.node');
+const addon = require('node-addon-trackpad-scroll');
 
 addon.onScroll(event => {
-  console.log('Trackpad Event:', event);
+  console.log('Event:', event);
 });
 ```
 
